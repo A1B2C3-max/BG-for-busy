@@ -83,5 +83,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📞 Contact
 
-Created with 💖 by [Navjeevan Alone](mailto:navjeevanalone352@gmail.com) — feel free to get in touch!
+Created with 💖 by [Aryman Singh](mailto:arymansingh05@gmail.com) — feel free to get in touch!
 
